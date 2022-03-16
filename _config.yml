@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Jose V. Salazar L."
+title                    : "Dr. Akira Seino"
 title_separator          : "-"
-name                     : &name "Jose V. Salazar L."
-description              : &description "Ph.D. in Bioengineering and Robotics"
+name                     : &name "Akira Seino"
+description              : &description "Ph.D. in Robotics"
 url                      : https://toyoxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "toyoxx.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose Victorio Salazar Luces"
+  name             : "Akira Seino"
   avatar           : "toyo.jpg"
   bio              : "Robotics Engineer"
-  location         : "Sendai, Japan"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BvS8ZlQAAAAJ&hl=en"
@@ -99,7 +99,7 @@ author:
   github           : "toyoxx"
   google_plus      :
   keybase          :
-  instagram        : "toyoenjapon"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jose-salazar-74500254"
