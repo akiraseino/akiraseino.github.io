@@ -11,9 +11,9 @@ title                    : "Dr. Akira Seino"
 title_separator          : "-"
 name                     : &name "Akira Seino"
 description              : &description "Ph.D. in Robotics"
-url                      : https://toyoxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://akiraseino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "toyoxx.github.io"
+repository               : "akiraseino.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 100
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Akira Seino"
-  avatar           : "toyo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Robotics Engineer"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BvS8ZlQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=PuZ3kzIAAAAJ&hl=ja"
   email            : "akira.seino@transgp.hk"
-  researchgate     : "https://www.researchgate.net/profile/Jose_Salazar47"
+  researchgate     : "https://www.researchgate.net/profile/Akira-Seino"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,20 +102,20 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jose-salazar-74500254"
-  orcid            : "https://orcid.org/0000-0003-0556-9194"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0002-4476-8391"
   pinterest        :
   soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "toyoenjapon"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : "https://researchmap.jp/j.salazar"
+  researchmap      : "https://researchmap.jp/a_seino"
 
 
 # Reading Files

@@ -11,42 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in Systems Engineering, Los Andes University, Merida, Venezuela, 2010
-* M.S. in Bioengineering and Robotics, Tohoku University, Japan, 2015
-* Ph.D in Robotics, Tohoku University, 2018
+* B.S. in Mechanical Engineering, Yamagata University, Yamagata, Japan, 2014
+* M.S. in Bioengineering and Robotics, Tohoku University, Sendai, Japan, 2016
+* Ph.D in Robotics, Tohoku University, 2019
 
 Work experience
 ======
-* 2011 - 2013: Lead iOS Developer
-  * Ogangi Corp.
-  * Duties included: Developing custom Apps for iOS in Objective-C. Developed
-  * Supervisor: Francisco Andrades
+* 2019.4 - 2021.3: Project Assistant Professor
+  * Faculty of Symbiotic System Science, Fukushima University, Japan
+  * Duties included: Teaching, project research, acadamic advising
+  * Supervisor: Professor Takayuki Takahashi
 
-* 2018 - present : Assistant Professor
-  * Tohoku University
-  * Duties included: Teaching, independent research, academic advising
-  * Supervisor: Professor Yasuhisa Hirata
-  
+* 2021.4 - 2021.6: Researcher
+  * Center for Transformative AI & Robotics Research, Tohoku University, Japan
+  * Duties included: Project research
+  * Supervisor: Professor Kazuhiro Kosuge
+
+* 2021.6 - present: Research Officer
+  * Centre for Transformative Garment Production, Hong Kong
+  * Duties included: Project research
+  * Supervisor: Professor Kazuhiro Kosuge
+
+* 2022.3 - present: Visiting Research Associate
+  * Department of Electrical and Electric Engineering, The University of Hong Kong, Hong Kong
+  * Duties included: Project research
+  * Supervisor: Professor Kazuhiro Kosuge
+
 Skills
 ======
 
 * Programming
-  * Experience under Windows, Linux, OSX, QNX environments
-  * Experience using and developing custom solutions in ROS
-  * Preferred programming languages: C++, Java
-  * Experience working with: C, Objective-C, PHP, HTML, CSS, Perl, Python, Bash, Verilog, VHDL
-  * DBMS: PostgreSQL, MySQL and Oracle
+  * Experience under Windows, Linux, QNX environments
+  * Preferred programming languages: C/C++
+  * Experience working with: C/C++, Python
 * Electronics & Hardware
-  * CAD Tools: Eagle (circuit design), SolidWorks
-  * Microcontrollers: experience programming PIC, AVR, and Arduino
-  * Embedded platforms: BeagleBone Black, Raspberry Pi, ODROID
-  * CAM experience: 3D Printing, CNC milling and PCB fabrication
-* Industrial Robots  
-  * Experience using industrial manipulators (Mitsubishi PA10, Epson C3, Yaskawa MotoMINI)
+  * CAD Tools: SolidWorks, Fusion360
+  * Microcontrollers: experience programming PIC, RX
+  * CAM experience: 3D Printing, CNC milling
+  * Machining tool: Milling machine, lathe, laser cutter, CMM 
+* Industrial Robots
+  * Experience using industrial manipulators (Mitsubishi PA10, Denso VS068)
 * Office Software
-  * LaTeX, MS Word, MS PowerPoint, MS Excel
+  * LaTeX, MS Word/Excel/PowerPoint, Adobe Illustrator/Premiere/Photoshop
 
-* Soft Skills
+<!--* Soft Skills
 
   * Constant desire to learn, always looking for answers.
   * Quick learner, never afraid to learn and re-learn.
@@ -57,6 +65,7 @@ Skills
   * Experienced in problem solving and innovating on solutions.
   * Has worked effectively independently and as a team member.
   * Enjoys social interaction, is friendly and extroverted. 
+  -->
 
 Publications
 ======
@@ -64,11 +73,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
@@ -78,10 +88,10 @@ Teaching
   
 Affiliations 
 ======
-* Member of IEEE, RSJ and JSME. 
-* Supporting member of the IEEE-RAS Technical Committee on [Robotics Research for Practicality](https://www.ieee-ras.org/robotics-research-for-practicality/contact)
+* Member of IEEE, SICE, RSJ and JSME. 
 
-Awards
+<!--Awards
 ======
 * 2013 MEXT Scholarship recipient.
-* 2019 JSME Young Engineers Award by The Japan Society of Mechanical Engineers. 
+* 2019 JSME Young Engineers Award by The Japan Society of Mechanical Engineers.  
+-->
