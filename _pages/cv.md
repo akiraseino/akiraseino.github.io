@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Mechanical Engineering, Yamagata University, Yamagata, Japan, 2014
+  * Supervisor: Professor Kazuhisa Mitobe 
 * M.S. in Bioengineering and Robotics, Tohoku University, Sendai, Japan, 2016
+  * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
 * Ph.D in Robotics, Tohoku University, 2019
+  * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
 
 Work experience
 ======
@@ -41,7 +44,7 @@ Skills
 ======
 
 * Programming
-  * Experience under Windows, Linux, QNX environments
+  * Experience under Windows, Linux, QNX, INtime
   * Preferred programming languages: C/C++
   * Experience working with: C/C++, Python
 * Electronics & Hardware
@@ -72,7 +75,18 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+* 2017 SI Best Presentation Award, "Development of an Interface with Low-Operational Force for Power-assisted Cart Operated Using Brakes", SI2017, The 18th Annual Conference of System Integration Division, The Society of Instrument and Control Engineers
+* 2019 SI Best Presentation Award, "Examination of ultra-compact buoyancy controller using PTFE for underwater robot", SI2019, The 20th Annual Conference of System Integration Division, The Society of Instrument and Control Engineers
+* 2019 SI Best Presentation Award, "An atomic reactor interior monitoring arm using low melting point alloy -Joint structure and strength evaluation of arm structure and development of heating device-", SI2019, The 20th Annual Conference of System Integration Division, The Society of Instrument and Control Engineers
+
+Patents
+======
+* Handle mechanism for power-assisted cart, WO2016/208060, ERECTA International Corp., Granted from JP, 2018-8-16(JP)
+* P2018-127019A, Braking mechanism for power-assisted cart, ERECTA International Corp. (pending)
+
 <!--Talks
 ======
   <ul>{% for post in site.talks %}
@@ -90,8 +104,4 @@ Affiliations
 ======
 * Member of IEEE, SICE, RSJ and JSME. 
 
-<!--Awards
-======
-* 2013 MEXT Scholarship recipient.
-* 2019 JSME Young Engineers Award by The Japan Society of Mechanical Engineers.  
--->
+
