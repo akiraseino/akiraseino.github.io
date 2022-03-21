@@ -87,6 +87,10 @@ Patents
 * Handle mechanism for power-assisted cart, WO2016/208060, ERECTA International Corp., Granted from JP, 2018-8-16(JP)
 * P2018-127019A, Braking mechanism for power-assisted cart, ERECTA International Corp. (pending)
 
+Grants
+======
+* 2021 JSPS Grant-in-Aid for Early-Career Scientists, 21K14120, Underwater Manipulator with Zero Flooding Risk Using Phase Change of Low Melting Point Alloy
+
 <!--Talks
 ======
   <ul>{% for post in site.talks %}
