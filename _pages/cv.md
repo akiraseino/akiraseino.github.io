@@ -84,8 +84,8 @@ Awards
 
 Patents
 ======
-* Handle mechanism for power-assisted cart, WO2016/208060, ERECTA International Corp., Granted from JP, 2018-8-16(JP)
-* P2018-127019A, Braking mechanism for power-assisted cart, ERECTA International Corp. (pending)
+* Kazuhiro Kosuge, Jun Kinugawa, Akira Seino, Yuta Wakabayashi, Takashi Yanagiya, Mechanical device for cart, P6490214, Granted from JP, 2018-8-16(JP)
+* Kazuhiro Kosuge, Jun Kinugawa, Akira Seino, Yuta Wakabayashi, Takashi Yanagiya, Mechanical device for cart, P6865412, Granted from JP, 2021-4-8(JP)
 
 Grants
 ======
