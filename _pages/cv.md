@@ -15,7 +15,7 @@ Education
   * Supervisor: Professor Kazuhisa Mitobe 
 * M.S. in Bioengineering and Robotics, Tohoku University, Sendai, Japan, 2016
   * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
-* Ph.D in Robotics, Tohoku University, 2019
+* Ph.D in Robotics, Tohoku University, Sendai, Japan, 2019
   * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
 
 Work experience
@@ -44,18 +44,21 @@ Skills
 ======
 
 * Programming
-  * Experience under Windows, Linux, QNX, INtime
+  * Experience under: Windows, Linux, QNX, INtime
   * Preferred programming languages: C/C++
   * Experience working with: C/C++, Python
 * Electronics & Hardware
-  * CAD Tools: SolidWorks, Fusion360
-  * Microcontrollers: experience programming PIC, RX
-  * CAM experience: 3D Printing, CNC milling
+  * Microcontrollers experience programming: PIC, RX
+  * CAD software: SolidWorks, Fusion360
+  * CAM experience: CNC milling
   * Machining tool: Milling machine, lathe, laser cutter, CMM 
+  * 3D Printing: FDM, SLA
 * Industrial Robots
-  * Experience using industrial manipulators (Mitsubishi PA10, Denso VS068)
+  * Experience using industrial manipulators: Mitsubishi PA10, Denso VS068
 * Office Software
-  * LaTeX, MS Word/Excel/PowerPoint, Adobe Illustrator/Premiere/Photoshop
+  * LaTeX
+  * MS Word/Excel/PowerPoint
+  * Adobe Illustrator/Premiere/Photoshop/Lightroom
 
 <!--* Soft Skills
 
@@ -106,6 +109,9 @@ Teaching
   
 Affiliations 
 ======
-* Member of IEEE, SICE, RSJ and JSME. 
+* IEEE, Robotics and automation society
+* SICE
+* RSJ
+* JSME 
 
 
