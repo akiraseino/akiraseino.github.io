@@ -13,30 +13,30 @@ Education
 ======
 * B.S. in Mechanical Engineering, Yamagata University, Yamagata, Japan, 2014
   * Supervisor: Professor Kazuhisa Mitobe 
-* M.S. in Bioengineering and Robotics, Tohoku University, Sendai, Japan, 2016
+* M.S. in Bioengineering and Robotics, Tohoku University, Miyagi, Japan, 2016
   * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
-* Ph.D in Robotics, Tohoku University, Sendai, Japan, 2019
+* Ph.D in Robotics, Tohoku University, Miyagi, Japan, 2019
   * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
 
 Work experience
 ======
 * 2019.4 - 2021.3: Project Assistant Professor
-  * Faculty of Symbiotic System Science, Fukushima University, Japan
+  * Affiliation: Faculty of Symbiotic System Science, Fukushima University, Japan
   * Duties included: Teaching, project research, acadamic advising
   * Supervisor: Professor Takayuki Takahashi
 
 * 2021.4 - 2021.6: Researcher
-  * Center for Transformative AI & Robotics Research, Tohoku University, Japan
+  * Affiliation: Center for Transformative AI & Robotics Research, Tohoku University, Japan
   * Duties included: Project research
   * Supervisor: Professor Kazuhiro Kosuge
 
 * 2021.6 - present: Research Officer
-  * Centre for Transformative Garment Production, Hong Kong
+  * Affiliation: Centre for Transformative Garment Production, Hong Kong
   * Duties included: Project research
   * Supervisor: Professor Kazuhiro Kosuge
 
 * 2022.3 - present: Visiting Research Associate
-  * Department of Electrical and Electric Engineering, The University of Hong Kong, Hong Kong
+  * Affiliation: Department of Electrical and Electric Engineering, The University of Hong Kong, Hong Kong
   * Duties included: Project research
   * Supervisor: Professor Kazuhiro Kosuge
 
@@ -51,7 +51,7 @@ Skills
   * Microcontrollers experience programming: PIC, RX
   * CAD software: SolidWorks, Fusion360
   * CAM experience: CNC milling
-  * Machining tool: Milling machine, lathe, laser cutter, CMM 
+  * Machining tool: Milling Machine (Manual, CNC), Lathe (Manual), Laser Cutting Machine, Coordinate Measuring Machine 
   * 3D Printing: FDM, SLA
 * Industrial Robots
   * Experience using industrial manipulators: Mitsubishi PA10, Denso VS068
