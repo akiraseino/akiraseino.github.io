@@ -3,13 +3,13 @@ title: "Time-Scaling Modeling and Control of Robotic Sewing System"
 collection: publications
 permalink: /publications/2024-T-Mech
 date: 2024-5-21
-journal: "IEEE/ASME Transaction on Mechatronics (T-Mech)"
+journal: "IEEE/ASME Transactions on Mechatronics (T-Mech)"
 issue: "4"
 number: "29"
 year: "2024"
 page: ""
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10160635'
-url: 'https://ieeexplore.ieee.org/abstract/document/10160635'
+paperurl: 'https://ieeexplore.ieee.org/document/10536026'
+url: 'https://ieeexplore.ieee.org/document/10536026'
 authors: "K. Tang<sup>1, 3</sup>,F. Tokuda<sup>1, 2</sup>, A. Seino<sup>1, 2</sup>, A. Kobayashi<sup>1, 2</sup>, N. C. Tien<sup>1, 2</sup>, K. Kosuge<sup>1, 2, 3</sup>"
 affiliations: "1. Centre for Transformative Garment Production, Unites 1215 to 1220, 12/F, Building 19W, SPX1, Hong Kong Schience Park, Pak Shek Kok, N. T., Hong Kong SAR <br> 2. Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR <br> 3. Director of the JC STEM Lab of Robotics forSoft Materials, Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Hong Kong, Hong Kong SAR <br>"
 doi: 10.1109/TMECH.2024.3398713
