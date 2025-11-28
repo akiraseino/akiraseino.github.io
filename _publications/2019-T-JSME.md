@@ -10,7 +10,7 @@ year: "2019"
 page: 19-00063
 paperurl: 'https://www.jstage.jst.go.jp/article/transjsme/85/874/85_19-00063/_article/-char/en'
 authors: "A. Seino<sup>1</sup>, J. Kinugawa<sup>1</sup>, Y. Wakabayashi<sup>2</sup>, S. Itami<sup>3</sup>, B. Thanapat<sup>4</sup>, K. Kosuge<sup>1</sup>"
-affiliations: "1. School of Engineering, Tohoku University, Sendai, Miyagi, 980-8579, Japan <br> 2. Department of Control Engineering, National Institute of Technology, Maizuru College, Maizuru, Kyoto, 625-8511, Japan <br> 3. Denso Corp., Kariya, Aichi, 448-8661, Japan <br>4. EASY BUYPublic Co., Ltd., Bangkok, Thailand <br>"
+affiliations: "1. School of Engineering, Tohoku University, Sendai, Miyagi, 980-8579, Japan <br> 2. Department of Control Engineering, National Institute of Technology, Maizuru College, Maizuru, Kyoto, 625-8511, Japan <br> 3. Denso Corp., Kariya, Aichi, 448-8661, Japan <br>4. EASY BUY Public Co., Ltd., Bangkok, Thailand <br>"
 doi: 10.1299/transjsme.19-00063
 ---
 Abstract
