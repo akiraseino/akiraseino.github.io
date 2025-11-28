@@ -5,13 +5,13 @@ var addressPoints = [
     11.5753822
   ], 
   [
-    "Honolulu, Hawaii", 
-    21.304547, 
-    -157.8556764
+    "Beiging, China", 
+    39.908, 
+    116.397
   ], 
   [
-    "Daejon, Korea", 
-    36.3496, 
-    127.3848
+    "Bangkok, Thailand", 
+    13.75222, 
+    100.49389
   ]
 ];
