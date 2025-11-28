@@ -88,6 +88,11 @@ Publications
 
 Awards
 ======
+* Best Conference Paper Award, “Fabric Flattening and Alignment System Using Real-time Mesh-based State Estimation and Visual Servoing,” Edmund Lo, Xuzhao Huang, Kai Tang, Akira Seino, Fuyuki Tokuda, Kazuhiro Kosuge, The 2025 IEEE International Conference on Mechatronics and Automation (IEEE ICMA 2025)
+* Gold medal, “Passive Actuator-Less (PAL) Gripper for Fabric Picking,” Kazuhiro KOSUGE, Akira SEINO, Hoi Pang NG, The 9th International Invention Innovation Competition in Canada, iCAN 2024
+* Special Awards by Highly Innovative and Unique Foundation (HIUF), Saudi Arabia, “Passive Actuator-Less (PAL) Gripper for Fabric Picking,” Kazuhiro KOSUGE, Akira SEINO, Hoi Pang NG, The 9th International Invention Innovation Competition in Canada, iCAN 2024
+* Special Awards by Innovation Initiative Co-operative Inc. “The Inventors Circle” – Toronto, Canada, “Passive Actuator-Less (PAL) Gripper for Fabric Picking,” Kazuhiro KOSUGE, Akira SEINO, Hoi Pang NG, The 9th International Invention Innovation Competition in Canada, iCAN 2024.
+* Silver medal, “Passive Actuator-Less (PAL) Gripper for Fabric Picking,” Akira SEINO, Kazuhiro KOSUGE, Hoi Pang NG, 49th International Exhibition of Inventions GENEVA.
 * 2019 SI Best Presentation Award, "An atomic reactor interior monitoring arm using low melting point alloy -Joint structure and strength evaluation of arm structure and development of heating device-", SI2019, The 20th Annual Conference of System Integration Division, The Society of Instrument and Control Engineers
 * 2019 SI Best Presentation Award, "Examination of ultra-compact buoyancy controller using PTFE for underwater robot", SI2019, The 20th Annual Conference of System Integration Division, The Society of Instrument and Control Engineers
 * 2017 SI Best Presentation Award, "Development of an Interface with Low-Operational Force for Power-assisted Cart Operated Using Brakes", SI2017, The 18th Annual Conference of System Integration Division, The Society of Instrument and Control Engineers
@@ -101,13 +106,12 @@ Grants
 ======
 * 2021 JSPS Grant-in-Aid for Early-Career Scientists, 21K14120, Underwater Manipulator with Zero Flooding Risk Using Phase Change of Low Melting Point Alloy
 
-<!--Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
--->
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
