@@ -5,7 +5,7 @@ var addressPoints = [
     11.5753822
   ], 
   [
-    "Beiging, China", 
+    "Beijing, China", 
     39.908, 
     116.397
   ], 
