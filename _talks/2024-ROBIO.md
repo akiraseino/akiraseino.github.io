@@ -5,7 +5,7 @@ talk_type: "Workshop talk"
 type: "Workshop talk"
 permalink: /talks/2025-ROBIO
 venue: "IEEE ROBIO 2024 Workshop 2: Robotics for Automated Garment Production"
-date: 2025-12-12
+date: 2024-12-12
 location: "Bangkok, Thailand"
 paperurl: 
 authors: "Akira Seino<sup>1, 2</sup>, K. Kosuge<sup>1, 2, 3</sup>"
