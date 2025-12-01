@@ -3,7 +3,7 @@ title: "Destacking of Fabric Part"
 collection: talks
 talk_type: "Workshop talk"
 type: "Workshop talk"
-permalink: /talks/2025-ROBIO
+permalink: /talks/2024-ROBIO
 venue: "IEEE ROBIO 2024 Workshop 2: Robotics for Automated Garment Production"
 date: 2024-12-12
 location: "Bangkok, Thailand"
