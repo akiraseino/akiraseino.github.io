@@ -20,3 +20,5 @@ He obtained his Bachelor degree in Mechanical Engineering at [Yamagata Universit
 His main research topic is in the area of mechanical desgin for robots, power-assisted system, and manipulation.
 
 He enjoys fishing, listening music, and [Photography](https://www.instagram.com/a.jono744/). 
+
+Last update: 2026/1/27

@@ -37,7 +37,7 @@ Work experience
   * Duties included: Project research
   * Supervisor: Professor Kazuhiro Kosuge
 
-* 2021.4 - 2021.6: Researcher
+* 2021.4 - 2021.6: Research Fellow
   * Affiliation: Center for Transformative AI & Robotics Research, Tohoku University, Japan
   * Duties included: Project research
   * Supervisor: Professor Kazuhiro Kosuge
