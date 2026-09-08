@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* 2025.11 - present: Project Researcher
+* 2025.11 - present: Associate Professor
   * Affiliation: Faculty of Symbiotic System Science, Fukushima University, Japan
   * Duties included: Research, Education, Acadamic Advising
 
