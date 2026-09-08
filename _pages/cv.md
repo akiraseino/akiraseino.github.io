@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Robotics, Tohoku University, Miyagi, Japan, 2019
+* Ph.D. in Robotics, Tohoku University, Miyagi, Japan, 2019
   * Supervisor: Professor Kazuhiro Kosuge, Assistant Professor Jun Kinugawa
 
 * M.S. in Bioengineering and Robotics, Tohoku University, Miyagi, Japan, 2016
@@ -23,6 +23,10 @@ Education
 Work experience
 ======
 * 2025.11 - present: Project Researcher
+  * Affiliation: Faculty of Symbiotic System Science, Fukushima University, Japan
+  * Duties included: Research, Education, Acadamic Advising
+
+* 2025.11 - 2026.3: Project Researcher
   * Affiliation: Graduate School of Engineering, Tohoku University, Japan
   * Duties included: Project research
   * Supervisor: Professor Yasuhisa Hirata
@@ -44,7 +48,7 @@ Work experience
 
 * 2019.4 - 2021.3: Project Assistant Professor
   * Affiliation: Faculty of Symbiotic System Science, Fukushima University, Japan
-  * Duties included: Teaching, project research, acadamic advising
+  * Duties included: Teaching, Project Research, Acadamic Advising
   * Supervisor: Professor Takayuki Takahashi
 
 Skills
@@ -53,9 +57,9 @@ Skills
 * Programming
   * Experience under: Windows, Linux, QNX, INtime, ROS2
   * Preferred programming languages: C/C++
-  * Experience working with: C/C++, Python
+  * Experience working with: C/C++, Python, HMTL/CSS
 * Electronics & Hardware
-  * Microcontrollers experience programming: PIC, RX
+  * Microcontrollers experience programming: PIC, RX(Renesas), Arduino
   * CAD software: SolidWorks, Fusion360
   * CAM experience: CNC milling
   * Machining tool: Milling Machine (Manual, CNC), Lathe (Manual), Laser Cutting Machine, Coordinate Measuring Machine 
@@ -120,7 +124,7 @@ Teaching
   
 Affiliations 
 ======
-* IEEE, Robotics and automation society
+* IEEE, Robotics and Automation Society
 * SICE
 * RSJ
 * JSME 
